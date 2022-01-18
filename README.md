@@ -13,3 +13,5 @@ The project will be implemented either with C or Java but using threads is a mus
 Prepare a report for the project explaining what is done in the methods.
 
 Write comments next to each line of code in the source code file.
+
+--2020--
